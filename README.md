@@ -1,7 +1,8 @@
+[![160744959694494596](https://i.imgur.com/v02g0e5.png)](https://github.com/maratg2?tab=repositories)
+
 <h1 align="center">Привет 👋, я Марат Газизулин</h1>
 <h3 align="center">Я ответственный и целеустремленный Unity Разработчик с опытом создания игр и приложений для PC/Android/Web/VR/AR</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maratg2&label=Profile%20views&color=0e75b6&style=flat" alt="maratg2" /> </p>
+\
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
