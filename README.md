@@ -1,4 +1,4 @@
-[![160744959694494596](https://i.imgur.com/uatl0lT.png)](https://github.com/maratg2?tab=repositories)
+[![160744959694494596](https://i.imgur.com/63vHUZm.png)](https://github.com/maratg2?tab=repositories)
 
 <h2 align="center">I'm responsible and goal-oriented Unity Developer with experience in creating games and apps for PC/Android/Web/VR/AR</h2>
 
