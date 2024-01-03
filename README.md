@@ -2,12 +2,18 @@
 
 <h2 align="center">I'm responsible and goal-oriented Unity Developer with experience in creating games and apps for PC/Android/Web/VR/AR</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h3 align="left">Key skills:</h3>
+<ul>
+  <li>Strong <b>Unity</b> and <b>C#</b></li>
+  <li>Understanding and usage of <b>OOP</b>, <b>SOLID</b>, and other <b>meta</b> principles</li>
+  <li>Commitment to easy, clean and extensible code; refactoring</li>
+  <li>Experience with <b>DoTween</b>, <b>UniTask</b>, <b>Zenject</b>, <b>ECS</b> (LeoECS Lite, Morpeh), NUnit, Odin Inspector, Input System, FMOD, NavMesh, Dreamteck Splines</li>
+  <li>Experience with multiplayer games: <b>Photon</b> (PUN), Facepunch.Steamworks</li>
+  <li>Experience with DBs and servers: <b>MySQL (+PHP)</b> (PUN), PostgreSQL (Npgsql), Google Sheets (API)</li>
+  <li>Broad experience: <b>VR</b> (Oculus Quest 2) / <b>AR</b> (Vuforia), HTML+CSS+JS+PHP+SQL; Python (ML); C, C++; HLSL</li>
+  <li>Writing technical documentation, usage of agile methodologies</li>
+  <li>Languages: English (B2), Russian (Native)</li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maratg2&show_icons=true&locale=en&layout=compact" alt="maratg2" /></p>
 
