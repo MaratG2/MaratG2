@@ -1,6 +1,6 @@
 [![160744959694494596](https://i.imgur.com/uatl0lT.png)](https://github.com/maratg2?tab=repositories)
 
-<h2 align="center">I'm responsible and goal-oriented Unity Developer with experience in creating games and apps for PC/Android/Web/VR/AR</p>
+<h2 align="center">I'm responsible and goal-oriented Unity Developer with experience in creating games and apps for PC/Android/Web/VR/AR</h2>
 
 <h3 align="left">Key skills:</h3>
 <ul>
@@ -14,7 +14,6 @@
   <li>Writing technical documentation, usage of agile methodologies</li>
   <li>Languages: English (B2), Russian (Native)</li>
 </ul>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maratg2&show_icons=true&locale=en&layout=compact" alt="maratg2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maratg2&show_icons=true&locale=en" alt="maratg2" /></p>
+<h2 align="center"></h2>
+<img align="left" width="350" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=maratg2&show_icons=true&locale=en&layout=compact" alt="maratg2"/>
+<img align="right" width="450" height="225" src="https://github-readme-stats.vercel.app/api?username=maratg2&show_icons=true&locale=en" alt="maratg2"/>
