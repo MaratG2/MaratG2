@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Hi, I'm Marat — ML Engineer · AI Agents & Process Automation" width="100%" />
+  <img src="./banner-tight.png" alt="Hi, I'm Marat — ML Engineer · AI Agents & Process Automation" width="100%" />
 </p>
 
 <p align="center">
