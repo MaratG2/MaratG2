@@ -37,16 +37,16 @@ Previously, I developed a **generative AI services platform at [krem.digital](ht
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=MaratG2&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e"
+    height="175"
+    src="https://github-stats-extended.vercel.app/api?username=MaratG2&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e"
     alt="Marat's GitHub stats"
   />
 </p>
 
 <p align="center">
   <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaratG2&theme=github_dark"
-    alt="Marat's GitHub activity"
+    height="175"
+    src="https://streak-stats.demolab.com?user=MaratG2&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
+    alt="Marat's GitHub streak"
   />
 </p>
