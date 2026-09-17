@@ -42,11 +42,3 @@ Previously, I developed a **generative AI services platform at [krem.digital](ht
     alt="Marat's GitHub stats"
   />
 </p>
-
-<p align="center">
-  <img
-    height="175"
-    src="https://streak-stats.demolab.com?user=MaratG2&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
-    alt="Marat's GitHub streak"
-  />
-</p>
