@@ -24,5 +24,3 @@ Previously, I built a generative AI services platform at **[krem.digital](https:
 - **Applied ML & evaluation** — selecting and adapting models, measuring quality and checking results against business requirements.
 - **Production systems** — Python services, APIs and data pipelines, with the interfaces and infrastructure needed to put them to work.
 - **Generative media** — image, video and audio pipelines, including diffusion models and LoRA workflows.
-
-<sub>My software engineering foundation includes C# and Unity: interactive systems, multiplayer features and backend integrations.</sub>
