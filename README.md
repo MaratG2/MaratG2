@@ -26,12 +26,3 @@ Previously, I built a generative AI services platform at **[krem.digital](https:
 - **Generative media** — image, video and audio pipelines, including diffusion models and LoRA workflows.
 
 <sub>My software engineering foundation includes C# and Unity: interactive systems, multiplayer features and backend integrations.</sub>
-
-##№ GitHub
-<p align="center">
-  <img
-    height="175"
-    src="https://github-stats-extended.vercel.app/api?username=MaratG2&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e"
-    alt="Marat's GitHub stats"
-  />
-</p>
